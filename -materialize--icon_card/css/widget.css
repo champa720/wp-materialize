@@ -1,0 +1,8 @@
+/* This stylesheet is used to style the public view of the widget. */
+
+.card_icon .card-image .fa:before {
+    background-color: #9e9e9e;
+    border-radius: 100%;
+    padding: .5em;
+    left: -2.5em !important;
+}
